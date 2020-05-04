@@ -1,0 +1,6 @@
+{
+    "require": {
+        "ext-pdo_sqlsrv": "^5.8",
+        "ext-sqlsrv": "^5.8"
+    }
+}
